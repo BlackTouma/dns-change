@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Author : MXiDev
-# Website : https://mxidev.com
-
 if [ $1 != 'restore' ];then
     DNS1=$1
     DNS2=$2
